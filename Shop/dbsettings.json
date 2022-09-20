@@ -1,0 +1,16 @@
+﻿{
+  "ConnectionStrings": {
+    //"DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=Shop;Trusted_Connection=True;MultipleActiveResultSets=true",
+    //"DefaultConnection": "Data Source=Users\\vovatk\\Doc\\ProjectsDotNet\\Shop\\Shop\\Data\\DataBase\\ShopDb.db"
+    "DefaultConnection": "Data Source=ShopDb.db"
+
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*"
+}
